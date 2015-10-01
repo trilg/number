@@ -5,9 +5,8 @@ public class Persha {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("N=");
-		int n = sc.nextInt();
-
+		System.out.println("N=");fggggf
+v
 		if (n <= 100) {
 			System.out.println("Ê³ëüê³ñòü öèôð= " + String.valueOf(n).length());
 		}
